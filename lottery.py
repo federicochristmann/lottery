@@ -2,13 +2,13 @@
 
 import random
 
-random.seed(899061)
+random.seed(120719)
 
 
 ### Sum of all lottery tickets
 
 # Parameters
-n = 10 # number of participants
+n = 88 # number of participants
 a = 1 # initial number
 d = 1 # step
 
